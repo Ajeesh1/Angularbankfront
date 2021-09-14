@@ -1,0 +1,20 @@
+.login-btn{
+    text-align: center;
+}
+.btn{
+   margin-left: auto;
+   margin-right: auto;
+}
+.login-div{
+    margin-top: 150px;
+}
+
+.head1{
+    margin-top: 75px;
+}
+.error{
+    color: red;
+}
+#b1{
+    margin-left: 450px;
+}
